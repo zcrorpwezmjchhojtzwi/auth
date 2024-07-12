@@ -1,3 +1,4 @@
 return {
     ["861919BC-DFB3-4EA0-ABE0-EC37DE269814"] = true, -- 986852436587196416 or mommy
+    ["423f1139-1d8f-4f24-ad23-20f39f49ff88"] = true, -- Lyrical
 }
