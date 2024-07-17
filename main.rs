@@ -36,6 +36,7 @@ return {
     ["6D3D9626-A841-4938-8EE4-2DDAE10266CD"] = true, -- 1194400392704954418 or money
     ["4297F0B1-1FAB-4445-9767-BC5F985B543E"] = true, -- 868653620139270194 or ricky
     ["9e60bcae-a353-4ef7-9e97-9f4a3de7f9e5"] = true, -- 1105126753904631898 or paki
+    ["10118D75-E597-47AE-BAA5-96B8E301F6B9"] = true, -- 1132249317218975815 or grave
     ["dfde0452-77b7-44cc-b2af-f2103320f5c2"] = true, -- syns
     ["3d08910f-2db8-4e59-94fb-d39838310359"] = true, -- lyrical
     ["DDD64905-8CD7-4ED1-AB76-B44FBC1072B8"] = true, -- xubs
