@@ -1,6 +1,7 @@
 return {
     ["861919BC-DFB3-4EA0-ABE0-EC37DE269814"] = true, -- 986852436587196416 or mommy
     ["CC091CA6-4BB0-4E68-9718-E0EE376D8B0B"] = true, -- 1041043066749976616 or eugene
+    ["C44E326C-817B-46D1-B267-F8FBBA3AD6F2"] = true, -- 1047714852745007134 or haunt
     ["dfde0452-77b7-44cc-b2af-f2103320f5c2"] = true, -- syns
     ["d0078bde-3c08-45a5-a48e-a9f9b500e332"] = true, -- lyrical
     ["DDD64905-8CD7-4ED1-AB76-B44FBC1072B8"] = true, -- xubs
