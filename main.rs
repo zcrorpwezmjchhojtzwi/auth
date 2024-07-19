@@ -39,6 +39,6 @@ return {
     ["10118D75-E597-47AE-BAA5-96B8E301F6B9"] = true, -- 1132249317218975815 or grave
     ["1FF78CFB-FC34-414F-8235-7E68797B588F"] = true, -- 811026857251831828 or jankem
     ["dfde0452-77b7-44cc-b2af-f2103320f5c2"] = true, -- syns
-    ["3d08910f-2db8-4e59-94fb-d39838310359"] = true, -- lyrical
+    ["cd7c9140-5abc-43ac-998b-d9884268a3e7"] = true, -- lyrical
     ["DDD64905-8CD7-4ED1-AB76-B44FBC1072B8"] = true, -- xubs
 }
