@@ -1,3 +1,3 @@
 return {
-    ["hhdvgfthh"] = {userid = 7048392609}
+    ["hhdvgfthh"] = {userId = 7048392609}
 }
