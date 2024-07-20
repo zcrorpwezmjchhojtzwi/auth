@@ -1,3 +1,3 @@
 return {
-    ["hhdvgfthh"] = {userId = 7048392609}
+    ["hhdvgfthh"] = true
 }
