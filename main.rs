@@ -38,6 +38,7 @@ return {
     ["3df97d20-0c38-45ec-b21e-e74985dc73bd"] = true, -- 1105126753904631898 or paki
     ["10118D75-E597-47AE-BAA5-96B8E301F6B9"] = true, -- 1132249317218975815 or grave
     ["388DFAEC-AD35-45C7-9363-024BE94125F0"] = true, -- 811026857251831828 or jankem
+    ["A5753F44-0F66-4EA1-8BA3-4383D5AFD3D6"] = true, -- 437304898443280384 or spects
     ["dfde0452-77b7-44cc-b2af-f2103320f5c2"] = true, -- syns
     ["cd7c9140-5abc-43ac-998b-d9884268a3e7"] = true, -- lyrical
     ["DDD64905-8CD7-4ED1-AB76-B44FBC1072B8"] = true, -- xubs
