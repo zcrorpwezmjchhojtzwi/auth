@@ -40,6 +40,7 @@ return {
     ["1FF78CFB-FC34-414F-8235-7E68797B588F"] = true, -- 811026857251831828 or jankem
     ["A5753F44-0F66-4EA1-8BA3-4383D5AFD3D6"] = true, -- 437304898443280384 or spects
     ["56451170-5920-44AC-AFC2-7DBFD6673A2D"] = true, -- 998694105276227584 or jay
+    ["0F474D6B-8B2E-488E-99AF-C0E81C5D0660"] = true, -- 1238203913405071401 or foas
     ["dfde0452-77b7-44cc-b2af-f2103320f5c2"] = true, -- syns
     ["cd7c9140-5abc-43ac-998b-d9884268a3e7"] = true, -- lyrical
     ["DDD64905-8CD7-4ED1-AB76-B44FBC1072B8"] = true, -- xubs
