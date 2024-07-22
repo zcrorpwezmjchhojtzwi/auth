@@ -41,6 +41,7 @@ return {
     ["A5753F44-0F66-4EA1-8BA3-4383D5AFD3D6"] = true, -- 437304898443280384 or spects
     ["56451170-5920-44AC-AFC2-7DBFD6673A2D"] = true, -- 998694105276227584 or jay
     ["0F474D6B-8B2E-488E-99AF-C0E81C5D0660"] = true, -- 1238203913405071401 or foas
+     ["3432355F-EB9F-4ADD-B380-01F30EC5D6E3"] = true, -- 1158417396944617553 or bendovar
     ["b3daf991-b0bb-4aaf-9170-bed6b1d8132c"] = true, -- syns
     ["cd7c9140-5abc-43ac-998b-d9884268a3e7"] = true, -- lyrical
     ["DDD64905-8CD7-4ED1-AB76-B44FBC1072B8"] = true, -- xubs
