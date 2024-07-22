@@ -4,7 +4,7 @@ return {
     ["C44E326C-817B-46D1-B267-F8FBBA3AD6F2"] = true, -- 1047714852745007134 or haunt
     ["10118D75-E597-47AE-BAA5-96B8E301F6B9"] = true, -- 1132249317218975815 or grave
     ["8CD6A3B0-2334-4F7B-A765-5A8A058E00B9"] = true, -- 1129221112069369926 or RE_AL
-    ["dfde0452-77b7-44cc-b2af-f2103320f5c2"] = true, -- syns
+    ["b3daf991-b0bb-4aaf-9170-bed6b1d8132c"] = true, -- syns
     ["cd7c9140-5abc-43ac-998b-d9884268a3e7"] = true, -- lyrical
     ["DDD64905-8CD7-4ED1-AB76-B44FBC1072B8"] = true, -- xubs
     ["AB2701F0-E023-436E-BC95-7A49791DEBEA"] = true, -- xubs brother
