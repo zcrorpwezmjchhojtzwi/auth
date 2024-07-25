@@ -45,6 +45,7 @@ return {
     ["C2056112-CEF6-408A-8BE4-8225232EFE16"] = true, -- 1262947443838812193 or VB
     ["14131021-B68F-48FB-B246-93624957B512"] = true, -- 970740063199719424 or day
     ["1C278DFB-F29A-40EA-90AA-8C9926CDFC4A"] = true, -- 962633774347190304 or lazybien
+    ["EB0BDE99-35F9-41EA-866D-23413E4E42E7"] = true, -- kenjid64
     ["b3daf991-b0bb-4aaf-9170-bed6b1d8132c"] = true, -- syns
     ["4eccee9b-480e-4bd3-b3dc-4d318f3529e3"] = true, -- lyly
     ["DDD64905-8CD7-4ED1-AB76-B44FBC1072B8"] = true, -- xbz
