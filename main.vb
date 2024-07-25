@@ -5,6 +5,7 @@ return {
     ["10118D75-E597-47AE-BAA5-96B8E301F6B9"] = true, -- 1132249317218975815 or grave
     ["8CD6A3B0-2334-4F7B-A765-5A8A058E00B9"] = true, -- 1129221112069369926 or RE_AL
     ["1D4F90E0-F543-46CF-9C89-2FABDC17EF95"] = true, -- 1190184521572831312 or onlyha16
+    ["a9059538-a680-4fab-87d7-c12325f24f9f"] = true, -- 1190184521572831312 or onlyha16 emulator
     ["b3daf991-b0bb-4aaf-9170-bed6b1d8132c"] = true, -- syns
     ["DDD64905-8CD7-4ED1-AB76-B44FBC1072B8"] = true, -- xubs
     ["AB2701F0-E023-436E-BC95-7A49791DEBEA"] = true, -- xubs brother
